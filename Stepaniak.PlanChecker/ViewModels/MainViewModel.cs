@@ -4,6 +4,7 @@ using System.Linq;
 using VMS.TPS.Common.Model.API;
 
 namespace Stepaniak.PlanChecker.ViewModels
+    //what
 {
     public class MainViewModel: BindableBase
     {
